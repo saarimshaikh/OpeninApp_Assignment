@@ -1,6 +1,5 @@
-# Voice Cloning AI
-
-Voice cloning AI (deepfake for voice). Using cloned voice from only 5-10 seconds of targeted voice.
+# OpeninApp Assignment
+Assignment: Create a voice cloning model that can generate a synthetic voice that sounds like a specific person. The model should be able to generate speech from text input, and it should be able to reproduce the unique vocal characteristics of the target speaker.
 
 Implementation used an unofficial (but popular) Implementation of the famous paper "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis
 "
